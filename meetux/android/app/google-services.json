@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "549041100836",
+    "firebase_url": "https://meetux-c8fc9.firebaseio.com",
+    "project_id": "meetux-c8fc9",
+    "storage_bucket": "meetux-c8fc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549041100836:android:23ea32471f471c30",
+        "android_client_info": {
+          "package_name": "com.uniqdeer.meetux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549041100836-2lth2pdr4bd08vkajks6ju1oaq5rur1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uniqdeer.meetux",
+            "certificate_hash": "81cc20750d22213b028e019987d6125e2c5b4f82"
+          }
+        },
+        {
+          "client_id": "549041100836-a32m7jidf3qb2bjp8s40ob42b47pjdn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrrvKT5ii1THmI_BazXM6flP2AIZd4dWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549041100836-a32m7jidf3qb2bjp8s40ob42b47pjdn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
